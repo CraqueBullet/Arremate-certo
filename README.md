@@ -21,12 +21,6 @@ Arremate Certo é um sistema desenvolvido em Java para automação de lances e l
 - Java 11+ (ou superior)
 - Dependências gerenciadas via Maven
 
-## 🚀 Como Iniciar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/Bullet-Infotec/Arremate-certo.git
 
 <div>
 
