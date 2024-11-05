@@ -1,7 +1,7 @@
 ## <p align="center"> 🏆 Arremate Certo 🏆</p>
 
 <p align="center">
-Arremate Certo é um sistema desenvolvido em Java para automação de lances e licitações públicas, oferecendo mais eficiência e precisão em suas estratégias. 🚀
+Arremate Certo é um sistema desenvolvido em Java para automação de lances e licitações públicas e dispensas, oferecendo mais eficiência e precisão em suas estratégias. 🚀
 </p>
 
 <p align="center">
