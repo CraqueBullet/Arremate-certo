@@ -28,19 +28,6 @@ Clone o repositório:
 ```bash
 git clone https://github.com/Bullet-Infotec/Arremate-certo.git
 
-
-Compile e execute o projeto:
-
-<div>
-
-   
-```bash
-mvn clean install
-mvn exec:java
-
-
-</div>
-
 <div>
 
 ## 📂 Estrutura do Projeto
